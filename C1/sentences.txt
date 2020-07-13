@@ -19,4 +19,4 @@ OS X Mountain Lion was released on July 25, 2012 for purchase and download throu
 Apple has released a small patch for the three most recent versions of Safari running on OS X Yosemite, Mavericks, and Mountain Lion.
 The Mountain Lion release marks the second time Apple has offered an incremental upgrade, rather than releasing a new cat entirely.
 Mac OS X Mountain Lion installs in place, so you won't need to create a separate disk or run the installation off an external drive.
-The fifth major update to Mac OS X, Leopard, contains such a mountain of features - more than 300 by Apple's count.
+The fifth major update to Mac OS X, Leopard, contains such a mountain of features - more than 300 by Apple's count just for some tests.
